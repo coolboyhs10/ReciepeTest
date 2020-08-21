@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132208561535",
+    "firebase_url": "https://reciepe-test.firebaseio.com",
+    "project_id": "reciepe-test",
+    "storage_bucket": "reciepe-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132208561535:android:1aa0adfab85502cd2e1e4a",
+        "android_client_info": {
+          "package_name": "com.example.reciepetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132208561535-7rglimceoqi68our8apcsfq7nj2n3eub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZouYLzN-dtsd5EV-E1C6QD0sCPqSIysQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132208561535-7rglimceoqi68our8apcsfq7nj2n3eub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
